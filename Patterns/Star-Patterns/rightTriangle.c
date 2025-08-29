@@ -1,4 +1,4 @@
-/*  Right Aligned Star Triangle
+/*  Right Star Triangle
     *
     **
     ***
@@ -16,4 +16,5 @@ int main(){
         }
         printf("\n");
     }
+    return 0;
 }
